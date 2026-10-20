@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**pranay-kagawade/pranay-kagawade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+## 🔭 What I'm Working On
+- 🤖 **Current Project:** Building and experimenting with an innovative **AI-driven project**, integrating machine learning, intelligent workflows, and clean user experience.
+- 📚 **Learning & Growing:** Deepening my knowledge in Artificial Intelligence, data structures, software engineering, and system design.
+- 🎨 **Design & Prototyping:** Leveraging design tools like **Canva** to build stunning presentations, UI mockups, and project graphics.
+
+---
+
+## 👨‍💻 About Me
+- 🏫 **Major:** Artificial Intelligence & Data Science (AIDS)
+- 🧠 **Interests:** Machine Learning, generative AI, smart automation, and building functional software.
+- 💡 **Philosophy:** Bridging the gap between powerful backend logic and clean, intuitive design.
+
+---
 - ⚡ Fun fact: ...
 -->
