@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 <br>
 
 ## 🔭 What I'm Working On
