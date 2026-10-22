@@ -10,6 +10,6 @@
 ## 👨‍💻 About Me
 - 🏫 **Major:** Artificial Intelligence & Data Science (AIDS)
 - 🧠 **Interests:** Machine Learning, generative AI, smart automation, and building functional software.
-- 💡 **Philosophy:** Bridging the gap between powerful backend logic and clean, intuitive design.
+- 💡 **Philosophy:** Bridging the gap between powerful backend logic and clean, intuitive design. 
 
 
